@@ -14,12 +14,12 @@ I have selected two artworks: A poster named ***Space*** from Magdiel Lopez and 
 
 To achieve the desired effect of **gravity** manipulation in coding, I would explore using a **simulation of forces** as a coding technique. By applying forces such as gravity and drag to objects (movers), this technique mimics the behavior of objects in gravitational fields or fluid environments. It contributes to creating a realistic simulation where objects float, fall, and interact dynamically based on their mass and the environment they are in.  This involves creating attributes like **mass, position, velocity, and acceleration** for objects and **applying gravitational and drag forces** to each mover. Overall, this technique facilitates the creation of dynamic and immersive simulations.
 
-- An image of the Forces example
+- An image of the Forces example 1
 ![An image of the Forces example](assets/gravity_ball.png)
 
-- An image of the Forces example
+[Gravity Ball example](https://p5js.org/examples/simulate-forces.html)
+
+- An image of the Forces example 2
 ![An image of the Forces example](assets/gravity_snow.png)
 
-[Link Text](https://p5js.org/examples/simulate-forces.html)
-
-[Link Text](https://editor.p5js.org/codingtrain/sketches/UMUPBVuH5)
+[Gravity Snow example](https://editor.p5js.org/codingtrain/sketches/UMUPBVuH5)
