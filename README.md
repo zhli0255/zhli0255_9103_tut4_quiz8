@@ -5,6 +5,7 @@
 I have selected two artworks: A poster named ***Space*** from Magdiel Lopez and a digital artwork named ***Blue Light District*** by Andrea koroveshi. These images evoke a sense of **uncontrolled gravity**, creating a feeling of floating and falling for the viewers. This sensation sparks a fantastical experience of **gravity**, exploring the unknown phenomena one might encounter in space or underwater. It provides a unique visual effect that can captivate the audience's interest and imagination. By implementing the **gravity** effect, I can better express the themes or concepts of the project, offering viewers a distinct visual experience. Additionally, this technique can enhance the project's creativity and appeal.
 
 - An image of the Space
+
 ![An image of the Space](assets/Space_Magdiel_Lopez_poster.jpg)
 
 - An image of the Blue Light District
@@ -17,9 +18,9 @@ To achieve the desired effect of **gravity** manipulation in coding, I would exp
 - An image of the Forces example 1
 ![An image of the Forces example](assets/gravity_ball.png)
 
-[Gravity Ball example](https://p5js.org/examples/simulate-forces.html)
+[Gravity Ball example link](https://p5js.org/examples/simulate-forces.html)
 
 - An image of the Forces example 2
 ![An image of the Forces example](assets/gravity_snow.png)
 
-[Gravity Snow example](https://editor.p5js.org/codingtrain/sketches/UMUPBVuH5)
+[Gravity Snow example link](https://editor.p5js.org/codingtrain/sketches/UMUPBVuH5)
